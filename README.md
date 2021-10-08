@@ -28,6 +28,6 @@
 
 </details>
 
-[website]: https://xandernetwork.nl
-[youtube]: https://www.youtube.com/channel/UCFdgVWebZ28s39YyEbft6Nw
+[website]: https://xandernetwork.nl/
+[youtube]: https://www.youtube.com/channel/UCFdgVWebZ28s39YyEbft6Nw/
 [instagram]: https://www.instagram.com/irednax/
