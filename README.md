@@ -10,14 +10,23 @@
 
 [<img align="left" alt="xandernetwork.nl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="iRednax | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="iRednaxx | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="iRednax | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 <br />
 
 ---
 
-<img align="left" alt="iRednax's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iRednax&show_icons=true&hide_border=true" />
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="iRednax's GitHub Stats" src="https://github-readme-stats.irednax.vercel.app/api?username=iRednax&show_icons=true&hide_border=true" />
+
+</details>
 
 [website]: https://xandernetwork.nl
 [youtube]: https://www.youtube.com/channel/UCFdgVWebZ28s39YyEbft6Nw
