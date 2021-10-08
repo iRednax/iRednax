@@ -24,7 +24,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="iRednax's GitHub Stats" src="https://github-readme-stats.irednax.vercel.app/api?username=iRednax&show_icons=true&hide_border=true" />
+  <img align="left" alt="iRednax's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iRednax&show_icons=true&hide_border=true" />
 
 </details>
 
