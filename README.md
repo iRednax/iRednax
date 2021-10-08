@@ -15,6 +15,10 @@
 <br />
 <br />
 
+---
+
+<img align="left" alt="iRednax's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iRednax&show_icons=true&hide_border=true" />
+
 [website]: https://xandernetwork.nl
 [youtube]: https://www.youtube.com/channel/UCFdgVWebZ28s39YyEbft6Nw
 [instagram]: https://www.instagram.com/irednax/
