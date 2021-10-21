@@ -29,7 +29,7 @@
 </details>
 
 <details>
-<summary> Top Languages</summary>
+<summary>:zap: Top Languages</summary>
 
 <img align="left" alt="iRednax's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iRednax&layout=compact" />
 
